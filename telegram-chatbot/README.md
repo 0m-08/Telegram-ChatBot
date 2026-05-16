@@ -1,12 +1,3 @@
----
-title: DialoGPT Telegram Bot
-colorFrom: blue
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # DialoGPT Telegram Chatbot
 
 A conversational AI Telegram bot powered by `microsoft/DialoGPT-medium`,
